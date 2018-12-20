@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://D:/360安全浏览器下载/网络商城系统/JavaPrj_7/src/com/sanqing/action/ShowImg.java" charset="GBK" />
-    <file url="file://D:/360安全浏览器下载/网络商城系统/JavaPrj_7/src/com/sanqing/dao/impl/CommodityClassDAOImpl.java" charset="GBK" />
-    <file url="file://D:/360安全浏览器下载/网络商城系统/JavaPrj_7/src/com/sanqing/dao/impl/CommodityDAOImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
   </component>
 </project>

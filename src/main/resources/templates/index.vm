@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    #include("common/global.jsp")
+    <title>主页</title>
+    #include("common/meta.jsp")
+    #include("common/include-base-styles.jsp")
+    <link type="text/css" rel="stylesheet" href="/css/index.css"/>
+</head>
+
+<body>
+    $!session
+====
+    $session
+    #include("common/header-nav.jsp")
+
+    <div class="container">
+
+        <div class="jumbotron">
+            <h1>
+                家乡特产网
+            </h1>
+
+            <p>
+                一家专门卖中国特产的特色网站！
+            </p>
+
+            <p>
+                <a class="btn btn-primary btn-large" href="http://github.com/vito16/shop">Github</a>
+            </p>
+        </div>
+
+    </div>
+    <!-- /container -->
+
+    #include("common/footer.jsp")
+    #include("common/include-base-js.jsp")
+
+</body>
+</html>
